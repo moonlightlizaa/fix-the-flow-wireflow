@@ -23,7 +23,10 @@ maar er is een andere user story die ook hieronder valt en dat is
 ## Wireflow
 <!-- Toon de wireflow -->
 
-![IMG_0137](https://user-images.githubusercontent.com/106411511/206286999-78db3809-667a-4d87-9745-dbd9fa5f1543.jpeg)
+![Untitled Notebook-2](https://user-images.githubusercontent.com/106411511/215076609-e08fe7e5-afbc-44fe-92f1-bddb748e8180.jpg)
+![Untitled Notebook-3](https://user-images.githubusercontent.com/106411511/215076614-fdf456a9-db67-4210-9408-d3cc83ccc247.jpg)
+![Untitled Notebook-4](https://user-images.githubusercontent.com/106411511/215076617-3b62cd7e-54f7-492b-a164-880d6a78f504.jpg)
+
 
 
 
